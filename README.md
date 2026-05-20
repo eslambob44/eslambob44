@@ -12,7 +12,7 @@ I'm currently a student and continuously working on side projects to improve my 
 
 ## 🚀 Projects
 
-I’ve worked on several projects, and one of my biggest projects is  [Cinema API](https://github.com/eslambob44/CinemaApi)
+I’ve worked on several projects, and one of my biggest projects is  [Cinema](https://github.com/eslambob44/cinema)
 
 ## 🌐 Currently Learning
 
