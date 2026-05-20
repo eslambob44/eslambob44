@@ -14,6 +14,11 @@ I'm currently a student and continuously working on side projects to improve my 
 
 I’ve worked on several projects, and one of my biggest projects is 🎬 [Cinema API](https://github.com/eslambob44/CinemaApi)
 
+## 🎯 Hobbies
+
+- I enjoy watching anime, and my favorite series is **Dr. Stone** 
+- I like playing games such as **The Witcher 3**  and **The Legend of Zelda: Breath of the Wild** 
+
 
 <!--
 **eslambob44/eslambob44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
